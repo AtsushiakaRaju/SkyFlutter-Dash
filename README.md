@@ -50,7 +50,7 @@ If using your phone and the game asks you to rotate, do so for optimal play.
 
 ## 🏁 Get Started
 
-Just open the [play link](https://yourusername.github.io/your-reponame/) in any browser and start flapping.  
+Just open the [play link]((https://atsushiakaraju.github.io/SkyFlutter-Dash/)) in any browser and start flapping.  
 Challenge your friends to beat your high score!
 
 ---
@@ -64,16 +64,10 @@ Want to improve or add features?
 
 ---
 
-## 📄 License
-
-Released under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## 🙏 Credits
 
 - Inspired by classic arcade bird games
-- Developed by [Your Name / Team Name]
+- Developed by [Atsushi / Alt of Honor]
 
 ---
 
