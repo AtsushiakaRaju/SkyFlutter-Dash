@@ -50,7 +50,7 @@ If using your phone and the game asks you to rotate, do so for optimal play.
 
 ## 🏁 Get Started
 
-Just open the [play link]((https://atsushiakaraju.github.io/SkyFlutter-Dash/)) in any browser and start flapping.  
+Just open the [play link]([https://atsushiakaraju.github.io/SkyFlutter-Dash/]) in any browser and start flapping.  
 Challenge your friends to beat your high score!
 
 ---
